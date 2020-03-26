@@ -2,13 +2,13 @@
 Projects and tasks related to group work of course User-Centered Design 2020.
 
 ## Team introductions
-***Manager** – Tony Heikkilä (group management, task specific duties, publicity, reporting)
-***Designer** – Antti Auvinen (creates prototypes and mock-ups)
-***Programmer and data capture** – Jukka Arponen and Matti Auvinen(can add minimal functionality/interactivity, collects user data)
-***Analyst** – Juhana Ullgren (collects data and analyses data, creates actionable recommendations)
+* **Manager** – Tony Heikkilä (group management, task specific duties, publicity, reporting)
+* **Designer** – Antti Auvinen (creates prototypes and mock-ups)
+* **Programmer and data capture** – Jukka Arponen and Matti Auvinen(can add minimal functionality/interactivity, collects user data)
+* **Analyst** – Juhana Ullgren (collects data and analyses data, creates actionable recommendations)
 
 *Jukka Arponen*
-*My name is Jukka Arponen. I'm a 30 years old Masters Degree student at the University of Eastern Finland. I’ve worked as a software engineer for five years and I have a Bachelor's Degree in Engineering from Savonia University of applied science. I started my masters studies in 2019 and I’m looking forward to learning new things. My hobbies include going to the gym, playing board games and roleplaying games.
+My name is Jukka Arponen. I'm a 30 years old Masters Degree student at the University of Eastern Finland. I’ve worked as a software engineer for five years and I have a Bachelor's Degree in Engineering from Savonia University of applied science. I started my masters studies in 2019 and I’m looking forward to learning new things. My hobbies include going to the gym, playing board games and roleplaying games.
 
 *Tony Heikkilä*
 *Hi, my name is Tony and this is my fourth year of studying Computer Science in Kuopio. I am 23 years old and my taken courses vary a lot - this might be because I am interested in multiple things OR that I cannot decide. I love martial arts (currently doing kickboxing) and my other hobbies include video games and programming. I also have two cats.
