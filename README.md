@@ -40,3 +40,13 @@ We were tasked to list some design related websites:
 * [WalkMe Blog](https://blog.walkme.com/category/user-experience/) - Top User Experience Articles.
 * [UX Booth](https://www.uxbooth.com/) - Different design articles, for example about interface design.
 * [Bonus: Top 18 blogs every UX pro should follow](https://www.usertesting.com/blog/the-18-blogs-every-ux-pro-should-follow)
+
+## Blog update - Chosen project
+We chose our topic to concern *Menu comparisons and designs solutions*. This seemed suitable topic for us since we have noticed a lot interesting, challenging and great menus in practice. We want to compare different menu designs on video game digital distribution platforms. The most well-known examples of these platforms are Steam (Valve), Origin (EA), Epic Games Store (Epic Games) and GOG (CD Project). We found Epic Games Store's user interface and menus lacking many features that the other stores currently have. We want to also analyze the value of simplicity in store platforms and how oversimplifying can have negative effect on the user experience. Here are the links to the platforms' webpages:
+
+* [Epic Games Store](https://www.epicgames.com/store/en-US)
+* [Steam](store.steampowered.com)
+* [Origin](https://origin.com)
+* https://www.gog.com
+
+We think that many users and possible survey participants have had experience at least with some of these platforms, thus giving as a reasonable amount of data to make conclusions and new menu designs.  
