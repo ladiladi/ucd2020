@@ -1,7 +1,13 @@
 # UCD2020 - Group G04 (K)
 Projects and tasks related to group work of course User-Centered Design 2020.
 
-## Team introductions
+# Navigation
+1. [Team introductions](#team-introductions)
+2. [Design related websites](#design-related-websites)
+3. [Chosen project](#chosen-project)
+4. [Data collection]
+
+## Team introductions<a name="team-introductions"/>
 * **Manager** – Tony Heikkilä (group management, task specific duties, publicity, reporting)
 * **Designer** – Antti Auvinen (creates prototypes and mock-ups)
 * **Programmer and data capture** – Jukka Arponen and Matti Auvinen(can add minimal functionality/interactivity, collects user data)
@@ -22,7 +28,7 @@ Hello there! I'm Juhana, 27 years old and I study computer science here in Kuopi
 *Matti Auvinen:*
 Hey, I'm Matti. I'm 23 and this is my fourth year studying Computer Science. There are quite a few different areas in CS that could be interesting but I have yet to settle on anything specific. UX is quite relevant and personal in that I sometimes stumble on some feature and can't help wondering why it wasn't done in a better way. My hobbies include working out, gaming, reading and I'm something of a movie buff.
 
-## Design related websites
+## Design related websites<a name="design-related-websites"/>
 We were tasked to list some design related websites:
 * [UXBlog](https://theuxblog.com/) - Blog created by Nicholas Tenhue. Provides articles, podcasts and resources for UX professionals.
 * [A List Apart](https://alistapart.com/articles/) - Articles about design, development and meaning of web content. 
@@ -41,7 +47,7 @@ We were tasked to list some design related websites:
 * [UX Booth](https://www.uxbooth.com/) - Different design articles, for example about interface design.
 * [Bonus: Top 18 blogs every UX pro should follow](https://www.usertesting.com/blog/the-18-blogs-every-ux-pro-should-follow)
 
-## Blog update - Chosen project
+## Blog update 1 - Chosen project<a name="chosen-project"/>
 We chose our topic to concern *Menu comparisons and designs solutions*. This seemed suitable topic for us since we have noticed a lot interesting, challenging and great menus in practice. We want to compare different menu designs on video game digital distribution platforms. The most well-known examples of these platforms are Steam (Valve), Origin (EA), Epic Games Store (Epic Games) and GOG (CD Project). We found Epic Games Store's user interface and menus lacking many features that the other stores currently have. We want to also analyze the value of simplicity in store platforms and how oversimplifying can have negative effect on the user experience. Here are the links to the platforms' webpages:
 
 * [Epic Games Store](https://www.epicgames.com/store/en-US)
