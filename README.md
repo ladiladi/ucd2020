@@ -73,7 +73,7 @@ We decided to ask participants' sex and age to see differences in taste and user
 
 Lastly, users were asked to select 5 features that they valued the most or wanted to be added to Epic Games Store. The features listed are either listed on Epic Games Store's Roadmap [Trello link](https://trello.com/b/GXLc34hk/epic-games-store-roadmap) or are already implemented in other video game online platforms (Steam). We seek to find some insights from the user experiences to make improved designs of the Epic Games Store UI. The data collection will take 1-2 weeks maximum, so we have time for analysis and creating mockups. 
 
-# Features available for selection:
+### Features available for selection:
 * 3rd Party Keys
 * Account Sharing
 * Achievements
