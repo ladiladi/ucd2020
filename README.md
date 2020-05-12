@@ -5,7 +5,12 @@ Projects and tasks related to group work of course User-Centered Design 2020.
 1. [Team introductions](#team-introductions)
 2. [Design related websites](#design-related-websites)
 3. [Chosen project](#chosen-project)
-4. [Data collection]
+4. [Data collection](#data-collection)
+5. [Data analysis and interpretation](#data-analysis)
+6. [Prototypes](#prototypes)
+7. [Evaluation with users](#evaluation)
+8. [Conclusions](conclusions)
+
 
 ## Team introductions<a name="team-introductions"/>
 * **Manager** – Tony Heikkilä (group management, task specific duties, publicity, reporting)
@@ -47,7 +52,7 @@ We were tasked to list some design related websites:
 * [UX Booth](https://www.uxbooth.com/) - Different design articles, for example about interface design.
 * [Bonus: Top 18 blogs every UX pro should follow](https://www.usertesting.com/blog/the-18-blogs-every-ux-pro-should-follow)
 
-## Blog update 1 - Chosen project<a name="chosen-project"/>
+## Chosen project<a name="chosen-project"/>
 We chose our topic to concern *Menu comparisons and designs solutions*. This seemed suitable topic for us since we have noticed a lot interesting, challenging and great menus in practice. We want to compare different menu designs on video game digital distribution platforms. The most well-known examples of these platforms are Steam (Valve), Origin (EA), Epic Games Store (Epic Games) and GOG (CD Project). We found Epic Games Store's user interface and menus lacking many features that the other stores currently have. We want to also analyze the value of simplicity in store platforms and how oversimplifying can have negative effect on the user experience. Here are the links to the platforms' webpages:
 
 * [Epic Games Store](https://www.epicgames.com/store/en-US)
@@ -55,4 +60,18 @@ We chose our topic to concern *Menu comparisons and designs solutions*. This see
 * [Origin](https://origin.com)
 * https://www.gog.com
 
-We think that many users and possible survey participants have had experience at least with some of these platforms, thus giving as a reasonable amount of data to make conclusions and new menu designs.  
+We think that many users and possible survey participants have had experience at least with some of these platforms, thus giving as a reasonable amount of data to make conclusions and new menu designs.
+
+## Data collection<a name="data-collection"/>
+Due to current situation with the COVID-19 quarantine we decided that the data gathering should be done remotely. The first interviewing is done with Google Forms, where a user can answer our questions freely on their own time, wherever and whenever they want. This low threshold questionnaire hopefully grants us more than few participants so more in-depth analysis can be done. Google Forms is used as a platform widely, so the page/format is probably familiar to the participants. We plan to share the form to other Computer Science students and to our friends. Assuming everyone from our project group invites at least two of their friends to participate, we plan to have at least ten participants.
+
+[Link to our Google Form](https://forms.gle/5aU7YtKUH43YZhH66)
+
+We decided to ask participants' sex and age to see differences in taste and user experiences in different demographics. We are planning to use this to create our two user personas later on. The participants are also asked on which platform they play games. We wanted to see if this has any effect on the feature selection (later on the questionnaire), since most of the digital distribution platforms operate on Windows platform. Users were also asked whether they had used Epic Games Store earlier and how they would rate this user experience. Other video game digital platforms were also introduced in the questionnaire and the users were asked to select the ones they had used. Lastly, users were asked to select 5 features that they valued the most or wanted to be added to Epic Games Store. The features listed are either listed on Epic Games Store's Roadmap [Trello link](https://trello.com/b/GXLc34hk/epic-games-store-roadmap) or are already implemented in other video game online platforms (Steam). We seek to find some insights from the user experiences to make improved designs of the Epic Games Store UI. The data collection will take 1-2 weeks maximum, so we have time for analysis and creating mockups. 
+
+The follow-up interview after data analysis and sketching is planned to be more inline with traditional interviewing, with the use of platforms like Discord or Zoom, that offer screensharing and real-time discussion with the participants. Everyone in the team agreed that the Wizard of Oz technique might be a great tool to showcase our new designs of Epic Games Store and how the new designs affect users' thought-process.
+
+[Data analysis and interpretation]<a name="data-analysis"/>
+[Prototypes]<a name="prototypes"/>
+[Evaluation with users]<a name="evaluation"/>
+[Conclusions]<a name="conclusions"/>
