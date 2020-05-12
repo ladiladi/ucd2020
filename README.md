@@ -112,25 +112,25 @@ The follow-up interview after data analysis and sketching is planned to be more 
 [Data analysis and interpretation]<a name="data-analysis"/>
 We received 11 responses to our questionnaire. All responders were male, but this may be because of a) males tend to play video games more b) participants were likely the closest friends of our all-male project group c) most of the students in UCD course and other CS courses are male. Age distribution was 21-25 years old (45.5%), 26-30 years old (27.3%) and 31-40 years old (27.3%). Again, this participant group represents the majority of the CS students - young male adults.
 
-![Age distribtution]https://github.com/ladiladi/ucd2020/blob/master/pictures/age-distribution.PNG)
+![Age distribtution](https://github.com/ladiladi/ucd2020/blob/master/pictures/age-distribution.PNG)
 
 Most of the participants play video games on PC (90.9%), but they also had experiences playing on different platforms: PlayStation (45.5%), Xbox (18.2%), Nintendo (18.2%), Mobile (18.2%).
 
-![Gaming platforms]https://github.com/ladiladi/ucd2020/blob/master/pictures/platforms.PNG)
+![Gaming platforms](https://github.com/ladiladi/ucd2020/blob/master/pictures/platforms.PNG)
 
 7 out of 11 participants (63.6%) did not have previous experience with Epic Games Store. These users rated their experience with Epic Game Store with grades 2 (one participant), 3 (two participants) and 4 (one participant). The wished features highlighted here were Friends List and Chat (75%), DRM Free Support (50%), Early Access (50%), Refunds (50%) and User Reviews (50%).
 
-![Features wanted to be added]https://github.com/ladiladi/ucd2020/blob/master/pictures/features-egs.PNG)
+![Features wanted to be added](https://github.com/ladiladi/ucd2020/blob/master/pictures/features-egs.PNG)
 
 There were also two features requested in written section: GDPR Compliance and Shopping Cart.
 
 The participants who had not used Epic Games Store before were questioned about using other video game digital platforms. The responsers answered that six of them have used Valve's Steam (85.7%), four of them have used EA's Origin (57.1%), three of them CD Project's GOG (42.9%), and one for each other selection: None, Uplay Store and PS Store (14.3%).
 
-![Other video game distribution platforms used]https://github.com/ladiladi/ucd2020/blob/master/pictures/non-egs-stores.PNG)
+![Other video game distribution platforms used](https://github.com/ladiladi/ucd2020/blob/master/pictures/non-egs-stores.PNG)
 
 These users were also given features to be rated. The highest rated features were Offline Play (six votes, 85.7%), User Reviews (six votes, 85.7%) and Cloud Saves (five votes, 71.4%). The other features had greater variance.
 
-![Features rated important on other digital distribution platforms]https://github.com/ladiladi/ucd2020/blob/master/pictures/features-non-egs.PNG)
+![Features rated important on other digital distribution platforms](https://github.com/ladiladi/ucd2020/blob/master/pictures/features-non-egs.PNG)
 
 [Prototypes]<a name="prototypes"/>
 [Evaluation with users]<a name="evaluation"/>
