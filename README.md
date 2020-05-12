@@ -67,7 +67,45 @@ Due to current situation with the COVID-19 quarantine we decided that the data g
 
 [Link to our Google Form](https://forms.gle/5aU7YtKUH43YZhH66)
 
-We decided to ask participants' sex and age to see differences in taste and user experiences in different demographics. We are planning to use this to create our two user personas later on. The participants are also asked on which platform they play games. We wanted to see if this has any effect on the feature selection (later on the questionnaire), since most of the digital distribution platforms operate on Windows platform. Users were also asked whether they had used Epic Games Store earlier and how they would rate this user experience. Other video game digital platforms were also introduced in the questionnaire and the users were asked to select the ones they had used. Lastly, users were asked to select 5 features that they valued the most or wanted to be added to Epic Games Store. The features listed are either listed on Epic Games Store's Roadmap [Trello link](https://trello.com/b/GXLc34hk/epic-games-store-roadmap) or are already implemented in other video game online platforms (Steam). We seek to find some insights from the user experiences to make improved designs of the Epic Games Store UI. The data collection will take 1-2 weeks maximum, so we have time for analysis and creating mockups. 
+We decided to ask participants' sex and age to see differences in taste and user experiences in different demographics. We are planning to use this to create our two user personas later on. The participants are also asked on which platform they play games. We wanted to see if this has any effect on the feature selection (later on the questionnaire), since most of the digital distribution platforms operate on Windows platform. Users were also asked whether they had used Epic Games Store earlier and how they would rate this user experience. Other video game digital platforms were also introduced in the questionnaire and the users were asked to select the ones they had used. 
+
+![Creating the Google Forms page](https://github.com/ladiladi/ucd2020/blob/master/pictures/creating-form.PNG)
+
+Lastly, users were asked to select 5 features that they valued the most or wanted to be added to Epic Games Store. The features listed are either listed on Epic Games Store's Roadmap [Trello link](https://trello.com/b/GXLc34hk/epic-games-store-roadmap) or are already implemented in other video game online platforms (Steam). We seek to find some insights from the user experiences to make improved designs of the Epic Games Store UI. The data collection will take 1-2 weeks maximum, so we have time for analysis and creating mockups. 
+
+# Features available for selection:
+* 3rd Party Keys
+* Account Sharing
+* Achievements
+* Big Picture / TV Mode
+* Broadcasting
+* Cloud Saves
+* Curation/Curators
+* DRM Free Support
+* Early Access
+* Forums
+* Friends List and Chat
+* Gifting
+* Groups
+* Inventory Sorting
+* Library Sorting
+* Linux Support
+* Marketplace / Item Trading
+* Mod Distribution Workshop
+* Offline Play
+* Overlay
+* Player Count Data
+* Refunds
+* Regional Pricing
+* Screenshot Capture / Share
+* Streaming to Other Services
+* Universal Controller Support
+* User Created Guides
+* User Profiles
+* User Reviews
+* Version Rollback Support
+* VR Support
+* Wish Lists
 
 The follow-up interview after data analysis and sketching is planned to be more inline with traditional interviewing, with the use of platforms like Discord or Zoom, that offer screensharing and real-time discussion with the participants. Everyone in the team agreed that the Wizard of Oz technique might be a great tool to showcase our new designs of Epic Games Store and how the new designs affect users' thought-process.
 
