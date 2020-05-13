@@ -132,6 +132,11 @@ These users were also given features to be rated. The highest rated features wer
 
 ![Features rated important on other digital distribution platforms](https://github.com/ladiladi/ucd2020/blob/master/pictures/features-non-egs.PNG)
 
+From these data insights we designed two personas that reflect users' motivations and goals.
+
+![Persona 1 - Taneli Mäkiheimo](https://github.com/ladiladi/ucd2020/blob/master/pictures/Slide1.jpg)
+![Persona 2 - Esko Miettinen](https://github.com/ladiladi/ucd2020/blob/master/pictures/Slide2.jpg)
+
 [Prototypes]<a name="prototypes"/>
 [Evaluation with users]<a name="evaluation"/>
 [Conclusions]<a name="conclusions"/>
