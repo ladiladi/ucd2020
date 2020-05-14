@@ -109,10 +109,10 @@ Lastly, users were asked to select 5 features that they valued the most or wante
 
 The follow-up interview after data analysis and sketching is planned to be more inline with traditional interviewing, with the use of platforms like Discord or Zoom, that offer screensharing and real-time discussion with the participants. Everyone in the team agreed that the Wizard of Oz technique might be a great tool to showcase our new designs of Epic Games Store and how the new designs affect users' thought-process.
 
-[Data analysis and interpretation]<a name="data-analysis"/>
+## Data analysis and interpretation<a name="data-analysis"/>
 We received 11 responses to our questionnaire. All responders were male, but this may be because of a) males tend to play video games more b) participants were likely the closest friends of our all-male project group c) most of the students in UCD course and other CS courses are male. Age distribution was 21-25 years old (45.5%), 26-30 years old (27.3%) and 31-40 years old (27.3%). Again, this participant group represents the majority of the CS students - young male adults.
 
-![Age distribtution](https://github.com/ladiladi/ucd2020/blob/master/pictures/age-distribution.PNG)
+![Age distribution](https://github.com/ladiladi/ucd2020/blob/master/pictures/age-distribution.PNG)
 
 Most of the participants play video games on PC (90.9%), but they also had experiences playing on different platforms: PlayStation (45.5%), Xbox (18.2%), Nintendo (18.2%), Mobile (18.2%).
 
@@ -132,11 +132,18 @@ These users were also given features to be rated. The highest rated features wer
 
 ![Features rated important on other digital distribution platforms](https://github.com/ladiladi/ucd2020/blob/master/pictures/features-non-egs.PNG)
 
-From these data insights we designed two personas that reflect users' motivations and goals.
+The need for friendlist, user reviews and chatting is due to network effect - users probably are where their friends are. Implementing these features enhances the social side of the gaming platform. DRM-Free Support and refunds are rated highly because they are directly pro-consumer features. Many of the features highlighted in the survey are already implemented in Valve's Steam store, and it has set a standard for other video game online platforms with its feature-richness. From these data insights we designed two personas that reflect users' motivations and goals:
 
 ![Persona 1 - Taneli Mäkiheimo](https://github.com/ladiladi/ucd2020/blob/master/pictures/Slide1.jpg)
+
+From Taneli's personality store's social aspects are highlighted. It is also stated that missing features are not always stopping people using some services, if there are no options (Epic Games Store has exclusive game distribution rights to some games or publishers, so they are only available to buy and play in their store).
+
 ![Persona 2 - Esko Miettinen](https://github.com/ladiladi/ucd2020/blob/master/pictures/Slide2.jpg)
 
+Esko is more demanding user when it comes to how he wants to spend his time. His own personal experience with technical and user experience design have created strong opinions about user experiences. He is likely to be less forgiving when it comes to bad design solutions, and the lack of features (as showcased in Epic Games Store) will probably affect negatively user's experience with the platform.
+ 
 [Prototypes]<a name="prototypes"/>
+
 [Evaluation with users]<a name="evaluation"/>
+
 [Conclusions]<a name="conclusions"/>
