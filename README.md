@@ -9,7 +9,7 @@ Projects and tasks related to group work of course User-Centered Design 2020.
 5. [Data analysis and interpretation](#data-analysis)
 6. [Prototypes](#prototypes)
 7. [Evaluation with users](#evaluation)
-8. [Conclusions](conclusions)
+8. [Conclusions](#conclusions)
 
 
 ## Team introductions<a name="team-introductions"/>
