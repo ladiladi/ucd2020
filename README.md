@@ -12,7 +12,7 @@ Projects and tasks related to group work of course User-Centered Design 2020.
 8. [Conclusions](#conclusions)
 
 ## Group Schedule
-![Group Schedule](https://github.com/ladiladi/ucd2020/blob/master/pictures/group-schedule)
+![Group Schedule](https://github.com/ladiladi/ucd2020/blob/master/pictures/group-schedule.PNG)
 
 ## Team introductions<a name="team-introductions"/>
 * **Manager** – Tony Heikkilä (group management, task specific duties, publicity, reporting)
