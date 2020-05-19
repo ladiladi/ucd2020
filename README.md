@@ -9,7 +9,7 @@ Projects and tasks related to group work of course User-Centered Design 2020.
 5. [Data analysis and interpretation](#data-analysis)
 6. [Prototypes](#prototypes)
 7. [Evaluation with users](#evaluation)
-8. [Conclusions](conclusions)
+8. [Conclusions](#conclusions)
 
 
 ## Team introductions<a name="team-introductions"/>
@@ -142,8 +142,67 @@ From Taneli's personality store's social aspects are highlighted. It is also sta
 
 Esko is more demanding user when it comes to how he wants to spend his time. His own personal experience with technical and user experience design have created strong opinions about user experiences. He is likely to be less forgiving when it comes to bad design solutions, and the lack of features (as showcased in Epic Games Store) will probably affect negatively user's experience with the platform.
  
-[Prototypes]<a name="prototypes"/>
+## Prototypes<a name="prototypes"/>
 
-[Evaluation with users]<a name="evaluation"/>
+Our entry point for the user-centered design was of course the current Epic Games Store layout. The original layout is presented in this picture:
 
-[Conclusions]<a name="conclusions"/>
+![Game information page](https://github.com/ladiladi/ucd2020/blob/master/pictures/Dia3.PNG)
+
+In the first prototype we introduced the shopping cart functionality to the Epic Games Store. You can see your shopping cart items on the bottom left corner and you will be prompted about adding new items to your shopping cart:
+![EGS - Shopping cart functionality](https://github.com/ladiladi/ucd2020/blob/master/pictures/Dia4.PNG)
+
+Example of items shown in the shopping cart:
+![EGS - Inside the shopping cart](https://github.com/ladiladi/ucd2020/blob/master/pictures/Dia7.PNG)
+Note that currently Epic Games Store does not support purchasing multiple items at once.
+
+Added gifting items to your friends:
+![EGS - Purchase for a friend or for myself](https://github.com/ladiladi/ucd2020/blob/master/pictures/Dia8.PNG)
+
+Items from the shopping cart can be removed:
+![EGS - Purchase for a friend or for myself](https://github.com/ladiladi/ucd2020/blob/master/pictures/Dia9.PNG)
+
+Users reviews designed: 
+![EGS - Purchase for a friend or for myself](https://github.com/ladiladi/ucd2020/blob/master/pictures/Dia10.PNG)
+
+Sale information (discount % and duration)
+![EGS - Sales information](https://github.com/ladiladi/ucd2020/blob/master/pictures/Dia13.PNG)
+
+## Evaluation with users<a name="evaluation"/>
+Two users were interviewed to give their evaluations about the new design and to test functionality with the Wizard of Oz technique (https://www.usabilitybok.org/wizard-of-oz). Users were both male (23 years and 20 years old). Both users had previous experience with the Epic Games Store and Steam. The users were interviewed using Discord VoIP service call and screenshare functions. The answers were written based on users' comments and checked with the users after interview to avoid misinterpretation.
+
+**Question 1**: How would you rate (the original) Epic Games Store user experience? (scale 0-10)  
+**User 1**: "I think I would rate it as 8. The UI is nice, I have some free games on there but I would not use Epic Games Store to buy games that I can find on Steam."  
+**User 2**: "5, I play a lot of Epic Games Store exclusive games but the user experience has been quite awful. I hope game makers stop exclusivity deals or Epic Games fixes its store."
+
+**Question 2**: (Users were asked to "pretend buying three games from Epic Games Store") The Epic Games Store is missing a shopping cart. Does this affect your shopping process?  
+**User 1**: "Buying multiple products at once is impossible. Having used mostly Steam before, missing shopping cart seems very odd, who designs this stuff?"  
+**User 2**: "I have never bought multiple products at once, but now I have experienced this (bad) experience also in this store. I would not want to select my payment methods for each item bought separately."
+
+**Question 3**: What do you think about game reviews/ratings showcased on store's game pages?   
+**User 1**: "I think they can be useful. I mostly buy games on Steam, so I read user and curator reviews from there and also check Youtube videos about new games."  
+**User 2**: "I do not trust ratings by critics or sites. They can be manipulated by game publishers. I usually wait for user reviews and sales numbers to speak for the game."
+
+Users were shown our prototypes about new menu and UI design. All designed pages (check Prototypes-section and/or Youtube presentation) were tested with the use of Wizard of Oz technique.
+
+**Question 4**: What things did you like on this new design?  
+**User 1**: "You fixed most of the basic problems currently present in Epic Games Store. I am just baffled that these simple things are missing from the store to begin with."  
+**User 2**: "Shopping cart seems to remove a lot of challenges from my shop experience. I liked that you added the user reviews with additional information!"
+
+**Question 5**: Anything you did not like about the new design?  
+**User 1**: "I would have liked to see more than with also the UI, for example using more icons and colors in the design. This critique applies to both the old and new design. Other than that not much to say about negative things."   
+**User 2**: "Even though the new features are great, the UI feels awkward or clunky (might be also because of the Wizard of Oz technique limitations) and even small information is sometimes taking a lot space on the page. For example, how would the user reviews look like in a smaller window? I still prefer how Steam does this stuff."
+
+**Question 6**: How would you rate this new design? (scale 0-10)  
+**User 1**: "I would like lower the initial review of the Epic Games Store to 5 or 6, and this new design would be rated 8. The UI is fine, but even the added features do not make it perfect."  
+**User 2**: "6, I am still not interested in using Epic Games Store to buy games, even though the added features do improve the user experience. This is also because of my commitment to Steam, I have hundreds of games in my Steam library and none of the stuff in Epic Games Store do make me want to fully switch over. At least I can now buy the discounted games in bulk if needed."
+
+## Conclusions<a name="conclusions"/>
+To conclude our journey about reviewing the Epic Games Store user experience and creating new designs to possibly enhance this experience, we noticed a lot of expectations from video game online distribution platforms. Steam as a original online video game store has set the standard for what is expected from a game platform. There were three major problems deduced in Epic Games Store:
+
+* Basic functionality / features missing - Shopping cart, gifting and navigation problems. Having better shop functionality overall could bring direct financial benefits to Epic Games - why would you want to make buying process difficult? 
+* Social experience - The need for good friends list and chat and other social features showcase the network effect - the users want to be where their friends are. Implementing social features enhances the network effect.
+* Pro-consumer methods - Users enjoy when they are treated well. Pro-consumer methods involve features like DRM-free support and refunds. When these features are implemented, users are probably more inclined to buy things from the store.
+
+The Epic Games Store is not broken, but it needs a lot of improvements to make it a primary store for users to use. Epic Games Store has gained a lot of users by making exclusive deals with game publishers (games can only be bought from Epic Games Store) but this is only a temporary solution. Improving the user experience will bring longevity to the store. We hope to see even some of these features to be implemented in the near future. The study also provided some insight overall about user preferences in video game online distribution, that can be applied to any online store.
+
+[Link to our video presentation](https://youtu.be/n5CaL6V-BKQ) - Our video presentation about the topic.
