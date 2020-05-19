@@ -170,30 +170,30 @@ Sale information (discount % and duration)
 ## Evaluation with users<a name="evaluation"/>
 Two users were interviewed to give their evaluations about the new design and to test functionality with the Wizard of Oz technique (https://www.usabilitybok.org/wizard-of-oz). Users were both male (23 years and 20 years old). Both users had previous experience with the Epic Games Store and Steam. The users were interviewed using Discord VoIP service call and screenshare functions. The answers were written based on users' comments and checked with the users after interview to avoid misinterpretation.
 
-**Question 1**: How would you rate (the original) Epic Games Store user experience? (scale 0-10)
-**User 1**: "I think I would rate it as 8. The UI is nice, I have some free games on there but I would not use Epic Games Store to buy games that I can find on Steam."
+**Question 1**: How would you rate (the original) Epic Games Store user experience? (scale 0-10)  
+**User 1**: "I think I would rate it as 8. The UI is nice, I have some free games on there but I would not use Epic Games Store to buy games that I can find on Steam."  
 **User 2**: "5, I play a lot of Epic Games Store exclusive games but the user experience has been quite awful. I hope game makers stop exclusivity deals or Epic Games fixes its store."
 
-**Question 2**: (Users were asked to "pretend buying three games from Epic Games Store") The Epic Games Store is missing a shopping cart. Does this affect your shopping process?
-**User 1**: "Buying multiple products at once is impossible. Having used mostly Steam before, missing shopping cart seems very odd, who designs this stuff?"
+**Question 2**: (Users were asked to "pretend buying three games from Epic Games Store") The Epic Games Store is missing a shopping cart. Does this affect your shopping process?  
+**User 1**: "Buying multiple products at once is impossible. Having used mostly Steam before, missing shopping cart seems very odd, who designs this stuff?"  
 **User 2**: "I have never bought multiple products at once, but now I have experienced this (bad) experience also in this store. I would not want to select my payment methods for each item bought separately."
 
-**Question 3**: What do you think about game reviews/ratings showcased on store's game pages? 
-**User 1**: "I think they can be useful. I mostly buy games on Steam, so I read user and curator reviews from there and also check Youtube videos about new games."
+**Question 3**: What do you think about game reviews/ratings showcased on store's game pages?   
+**User 1**: "I think they can be useful. I mostly buy games on Steam, so I read user and curator reviews from there and also check Youtube videos about new games."  
 **User 2**: "I do not trust ratings by critics or sites. They can be manipulated by game publishers. I usually wait for user reviews and sales numbers to speak for the game."
 
 Users were shown our prototypes about new menu and UI design. All designed pages (check Prototypes-section and/or Youtube presentation) were tested with the use of Wizard of Oz technique.
 
-**Question 4**: What things did you like on this new design?
-**User 1**: "You fixed most of the basic problems currently present in Epic Games Store. I am just baffled that these simple things are missing from the store to begin with."
+**Question 4**: What things did you like on this new design?  
+**User 1**: "You fixed most of the basic problems currently present in Epic Games Store. I am just baffled that these simple things are missing from the store to begin with."  
 **User 2**: "Shopping cart seems to remove a lot of challenges from my shop experience. I liked that you added the user reviews with additional information!"
 
-**Question 5**: Anything you did not like about the new design?
-**User 1**: "I would have liked to see more than with also the UI, for example using more icons and colors in the design. This critique applies to both the old and new design. Other than that not much to say about negative things." 
-**User 2**: "Even though the new features are great, the UI feels awkward or clunky (might be also because of the Wizard of Oz technique limitations) and even small information is sometimes taking a lot space on the page. For example, how would the user reviews look like in a smaller window? I still prefer how Steam does this stuff."
+**Question 5**: Anything you did not like about the new design?  
+* **User 1**: "I would have liked to see more than with also the UI, for example using more icons and colors in the design. This critique applies to both the old and new design. Other than that not much to say about negative things."   
+* **User 2**: "Even though the new features are great, the UI feels awkward or clunky (might be also because of the Wizard of Oz technique limitations) and even small information is sometimes taking a lot space on the page. For example, how would the user reviews look like in a smaller window? I still prefer how Steam does this stuff."
 
-**Question 6**: How would you rate this new design? (scale 0-10)
-**User 1**: "I would like lower the initial review of the Epic Games Store to 5 or 6, and this new design would be rated 8. The UI is fine, but even the added features do not make it perfect."
+**Question 6**: How would you rate this new design? (scale 0-10)  
+**User 1**: "I would like lower the initial review of the Epic Games Store to 5 or 6, and this new design would be rated 8. The UI is fine, but even the added features do not make it perfect."  
 **User 2**: "6, I am still not interested in using Epic Games Store to buy games, even though the added features do improve the user experience. This is also because of my commitment to Steam, I have hundreds of games in my Steam library and none of the stuff in Epic Games Store do make me want to fully switch over. At least I can now buy the discounted games in bulk if needed."
 
 ## Conclusions<a name="conclusions"/>
