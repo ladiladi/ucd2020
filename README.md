@@ -189,8 +189,8 @@ Users were shown our prototypes about new menu and UI design. All designed pages
 **User 2**: "Shopping cart seems to remove a lot of challenges from my shop experience. I liked that you added the user reviews with additional information!"
 
 **Question 5**: Anything you did not like about the new design?  
-* **User 1**: "I would have liked to see more than with also the UI, for example using more icons and colors in the design. This critique applies to both the old and new design. Other than that not much to say about negative things."   
-* **User 2**: "Even though the new features are great, the UI feels awkward or clunky (might be also because of the Wizard of Oz technique limitations) and even small information is sometimes taking a lot space on the page. For example, how would the user reviews look like in a smaller window? I still prefer how Steam does this stuff."
+**User 1**: "I would have liked to see more than with also the UI, for example using more icons and colors in the design. This critique applies to both the old and new design. Other than that not much to say about negative things."   
+**User 2**: "Even though the new features are great, the UI feels awkward or clunky (might be also because of the Wizard of Oz technique limitations) and even small information is sometimes taking a lot space on the page. For example, how would the user reviews look like in a smaller window? I still prefer how Steam does this stuff."
 
 **Question 6**: How would you rate this new design? (scale 0-10)  
 **User 1**: "I would like lower the initial review of the Epic Games Store to 5 or 6, and this new design would be rated 8. The UI is fine, but even the added features do not make it perfect."  
